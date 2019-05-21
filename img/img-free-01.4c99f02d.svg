@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="80px" viewBox="0 0 200 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>img_free01</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="guide_mobile" transform="translate(-107.000000, -5428.000000)">
+            <g id="img_free01" transform="translate(107.000000, 5428.000000)">
+                <g id="Group-33" transform="translate(40.000000, 18.000000)">
+                    <rect id="Rectangle" fill="#17019B" x="0" y="0" width="42" height="2"></rect>
+                    <rect id="Rectangle" fill="#17019B" x="0" y="0" width="2" height="12"></rect>
+                    <rect id="Rectangle" fill="#17019B" x="0" y="10" width="42" height="2"></rect>
+                    <rect id="Rectangle" fill="#17019B" x="40" y="7" width="2" height="5"></rect>
+                    <rect id="Rectangle" fill="#17019B" x="29" y="35" width="7" height="2"></rect>
+                    <path d="M1,16 L1,26 L41,26 L41,16 L1,16 Z" id="Rectangle-Copy-37" stroke="#17019B" stroke-width="2"></path>
+                    <path d="M1,31 L1,41 L41,41 L41,31 L1,31 Z" id="Rectangle-Copy-38" stroke="#17019B" stroke-width="2"></path>
+                    <rect id="Rectangle" fill="#17019B" transform="translate(63.000000, 23.000000) rotate(-315.000000) translate(-63.000000, -23.000000) " x="58" y="22" width="10" height="2"></rect>
+                    <rect id="Rectangle" fill="#17019B" transform="translate(63.000000, 23.000000) rotate(-225.000000) translate(-63.000000, -23.000000) " x="58" y="22" width="10" height="2"></rect>
+                    <path d="M92.24,36.04 L89.44,36.04 L89.44,10.72 L82.48,14.96 L81.2,12.72 L90.12,7.2 L92.24,7.2 L92.24,36.04 Z M116.64,8.72 L115.32,11 C113.52,9.96 111.4,9.28 109.2,9.28 C103.8,9.28 101.84,13.8 101.4,21.44 C102.28,19.72 104.64,17.4 108.68,17.4 C113.6,17.4 117.84,20.68 117.84,26.32 L117.84,27.28 C117.84,32.96 113.76,36.48 108.4,36.48 C102.96,36.48 98.64,32.8 98.64,24.76 L98.64,23.8 C98.64,11.4 102.68,6.76 109.24,6.76 C111.84,6.76 114.48,7.52 116.64,8.72 Z M101.68,26.2 L101.68,26.72 C101.68,31.04 104.4,33.96 108.32,33.96 C112.24,33.96 115.08,31.48 115.08,27.16 L115.08,26.56 C115.08,22.24 111.88,19.84 108.36,19.84 C105,19.84 101.68,22.52 101.68,26.2 Z" id="16" fill="#3F2BAC" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

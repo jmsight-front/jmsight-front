@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>img_simple01</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M54.7316378,34 L52.0649712,42 L49.3983045,34 L28,34 L28,0 L76,0 L76,34 L54.7316378,34 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web_1024" transform="translate(-1180.000000, -4530.000000)">
+            <g id="img_simple03" transform="translate(1180.000000, 4530.000000)">
+                <g id="Group-24" transform="translate(18.000000, 44.000000)">
+                    <circle id="Oval" stroke="#4F32EF" stroke-width="2" cx="52" cy="60" r="11"></circle>
+                    <g id="Group-26">
+                        <path d="M88.8571429,46 L91,51 L84.5714286,46 L66,46 L66,24 L94,24 L94,46 L88.8571429,46 Z" id="Combined-Shape-Copy-2" stroke="#4F32EF" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round" transform="translate(80.000000, 37.500000) scale(-1, 1) translate(-80.000000, -37.500000) "></path>
+                        <g id="Combined-Shape" stroke-linejoin="round">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <path stroke="#FFFFFF" stroke-width="3" d="M55.8127767,35.5 L52.0649712,46.7434165 L48.3171657,35.5 L26.5,35.5 L26.5,-1.5 L77.5,-1.5 L77.5,35.5 L55.8127767,35.5 Z"></path>
+                            <use stroke="#4F32EF" stroke-width="2" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M27.8571429,65 L30,70 L23.5714286,65 L0,65 L0,46 L33,46 L33,65 L27.8571429,65 Z" id="Combined-Shape-Copy" stroke="#4F32EF" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round"></path>
+                        <path d="M53.0084231,21.757 L50.2714231,21.757 L50.2714231,20.745 C50.2714231,19.204 50.2944231,18.399 52.0424231,16.789 C54.0894231,14.903 54.3424231,14.443 54.3424231,13.247 L54.3424231,13.017 C54.3424231,12.074 53.6754231,11.223 51.8584231,11.223 C50.4324231,11.223 49.2594231,11.821 48.2704231,12.764 L46.6604231,10.74 C48.1324231,9.268 49.9724231,8.624 51.9504231,8.624 C55.3314231,8.624 57.2864231,10.418 57.2864231,12.925 L57.2864231,13.247 C57.2864231,15.501 55.9754231,16.651 54.5494231,18.008 C53.3764231,19.135 53.0084231,19.48 53.0084231,20.814 L53.0084231,21.757 Z M50.1334231,26.656 L50.1334231,23.666 L53.1694231,23.666 L53.1694231,26.656 L50.1334231,26.656 Z" id="?" fill="#4F32EF" fill-rule="nonzero"></path>
+                    </g>
+                    <path d="M52.5,71 C43.3873016,71 36,78.163444 36,87 L69,87 C69,81.3053192 65.9319776,76.3054991 61.3113129,73.4699992" id="Path" stroke="#4F32EF" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

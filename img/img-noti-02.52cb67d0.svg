@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="232" viewBox="0 0 480 232">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="#FFEF00" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#FFDB00"/>
+        </linearGradient>
+        <linearGradient id="b" x1="50%" x2="50%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="#F11900" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#F84A00"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#E9E9E9" d="M0 36h480v3H0z"/>
+        <path fill="#E9E9E9" d="M60 36h3v9h-3zM417 36h3v9h-3zM312 36h3v9h-3zM238 36h3v9h-3zM60 88h3v9h-3zM417 88h3v9h-3zM312 88h3v9h-3zM238 88h3v9h-3zM60 140h3v9h-3zM417 140h3v9h-3zM312 140h3v9h-3zM238 140h3v9h-3zM60 192h3v9h-3zM417 192h3v9h-3zM312 192h3v9h-3zM238 192h3v9h-3z"/>
+        <path fill="#E9E9E9" d="M0 88h480v3H0zM0 140h480v3H0zM0 192h480v3H0z"/>
+        <text fill="#444" font-family="NanumSquareOTFEB, NanumSquareOTF" font-size="14" font-weight="600">
+            <tspan x="60" y="124">DISK</tspan>
+        </text>
+        <text fill="#444" font-family="NanumSquareOTFEB, NanumSquareOTF" font-size="14" font-weight="600">
+            <tspan x="60" y="176">SWAP</tspan>
+        </text>
+        <text fill="#999" font-family="NanumSquareOTFB, NanumSquareOTF" font-size="12" font-weight="bold">
+            <tspan x="58" y="217">0</tspan>
+        </text>
+        <text fill="#999" font-family="NanumSquareOTFB, NanumSquareOTF" font-size="12" font-weight="bold">
+            <tspan x="407" y="217">100</tspan>
+        </text>
+        <text fill="#FFA700" font-family="NanumSquareOTFEB, NanumSquareOTF" font-size="12" font-weight="600">
+            <tspan x="302" y="217">70</tspan>
+        </text>
+        <path fill="#E9E9E9" d="M382 36h3v9h-3zM382 88h3v9h-3zM382 140h3v9h-3zM382 192h3v9h-3z"/>
+        <text fill="#E94432" font-family="NanumSquareOTFEB, NanumSquareOTF" font-size="12" font-weight="600">
+            <tspan x="372" y="217">90</tspan>
+        </text>
+        <text fill="#444" font-family="NanumSquareOTFEB, NanumSquareOTF" font-size="14" font-weight="600">
+            <tspan x="60" y="72">MEMORY</tspan>
+        </text>
+        <text fill="#444" font-family="NanumSquareOTFEB, NanumSquareOTF" font-size="14" font-weight="600">
+            <tspan x="60" y="20">CPU</tspan>
+        </text>
+        <path fill="url(#a)" d="M312 36h73v165h-73z" style="mix-blend-mode:multiply"/>
+        <path fill="url(#b)" d="M385 36h35v165h-35z" style="mix-blend-mode:multiply"/>
+        <g transform="translate(194)">
+            <g transform="translate(48)">
+                <rect width="53" height="27" x="2.5" y=".5" fill="#FFF" stroke="#D7D7D7" rx="3"/>
+                <path fill="#444" d="M43.5 17l3.5-4h-7z"/>
+                <text fill="#444" font-family="NanumSquareOTFB, NanumSquareOTF" font-size="12" font-weight="bold">
+                    <tspan x="12" y="18">1분</tspan>
+                </text>
+            </g>
+            <g transform="translate(172)">
+                <rect width="53" height="27" x=".5" y=".5" fill="#FFF" stroke="#D7D7D7" rx="3"/>
+                <path fill="#444" d="M41.5 17l3.5-4h-7z"/>
+                <text fill="#444" font-family="NanumSquareOTFB, NanumSquareOTF" font-size="12" font-weight="bold">
+                    <tspan x="10" y="18">1분</tspan>
+                </text>
+            </g>
+            <text fill="#444" font-family="NanumSquareOTFB, NanumSquareOTF" font-size="12" font-weight="bold">
+                <tspan x="18" y="18">경고</tspan>
+            </text>
+            <circle cx="7" cy="14" r="5" fill="#F8D505"/>
+            <circle cx="129" cy="14" r="5" fill="#F14904"/>
+            <text fill="#444" font-family="NanumSquareOTFB, NanumSquareOTF" font-size="12" font-weight="bold">
+                <tspan x="140" y="18">위험</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

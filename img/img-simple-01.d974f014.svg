@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="160" viewBox="0 0 160 160">
+    <defs>
+        <path id="a" d="M34 61l34 15-34 15L0 76z"/>
+        <path id="b" d="M34 48l34 15-34 15L0 63z"/>
+        <path id="c" d="M34 36l34 15-34 15L0 51z"/>
+        <path id="d" d="M18.968 41.903C8.323 40.88 0 31.913 0 21 0 9.402 9.402 0 21 0s21 9.402 21 21c0 10.912-8.323 19.88-18.968 20.903L21 48l-2.032-6.097z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(36 48)">
+            <use fill="#FFF" xlink:href="#a"/>
+            <path stroke="#FFF" stroke-width="3" d="M34 59.36L71.716 76 34 92.64-3.716 76 34 59.36z"/>
+            <use stroke="#4F32EF" stroke-width="2" xlink:href="#a"/>
+        </g>
+        <g transform="translate(36 48)">
+            <use fill="#FFF" xlink:href="#b"/>
+            <path stroke="#FFF" stroke-width="3" d="M34 46.36L71.716 63 34 79.64-3.716 63 34 46.36z"/>
+            <use stroke="#4F32EF" stroke-width="2" xlink:href="#b"/>
+        </g>
+        <g transform="translate(36 48)">
+            <use fill="#FFF" xlink:href="#c"/>
+            <path stroke="#FFF" stroke-width="3" d="M34 34.36L71.716 51 34 67.64-3.716 51 34 34.36z"/>
+            <use stroke="#4F32EF" stroke-width="2" xlink:href="#c"/>
+        </g>
+        <g transform="translate(49 48)">
+            <use fill="#FFF" xlink:href="#d"/>
+            <path stroke="#FFF" stroke-width="3" d="M17.846 43.28C6.843 41.739-1.5 32.285-1.5 21-1.5 8.574 8.574-1.5 21-1.5S43.5 8.574 43.5 21c0 11.284-8.343 20.738-19.346 22.28L21 52.744l-3.154-9.462z"/>
+            <use stroke="#4F32EF" stroke-width="2" xlink:href="#d"/>
+            <circle cx="13" cy="21" r="2" fill="#4F32EF"/>
+            <circle cx="21" cy="21" r="2" fill="#4F32EF"/>
+            <circle cx="29" cy="21" r="2" fill="#4F32EF"/>
+        </g>
+    </g>
+</svg>
